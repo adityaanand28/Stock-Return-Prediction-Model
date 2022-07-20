@@ -1,4 +1,4 @@
-# Stock Return Prediction Model
+# Predicting Stock Return using CAPM and Fama French
 
 ## Details:
 
