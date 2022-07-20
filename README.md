@@ -19,8 +19,8 @@ Implemented the theory using Python and its libraries. Exported 1 year data of B
 # Week 4:
 Read about Sharpe Ration in brief, and how to calculate it. Then, using Excel found out the maximum value of Sharpe Ratio from a portfolio consisting of 2 stocks.
 
-#Week 5:
+# Week 5:
 Started with Fama French Model. Read about different paramenter used in its calculations, like High minus Low (HML), Small minus Big (SMB), alpha and Efficient Market Hypothesis.
 
-#Week 6:
+# Week 6:
 Did extended reading of other factor models like, Carhart 4 factor model, Fung Hsieh 7 factor Model, Statistical Factor Model, Macroeconomic Factor Model, etc. based uses factors like momentum, liquidity, volatility, time to improve the accuracy of return predictions.
