@@ -2,7 +2,7 @@
 
 ## Details:
 
-This project was offered by Finance and Analytics Club, IIT Kanpur during summers from May'22 to Jul'22. The following objectivve was archieved during the project:
+This project was offered by Finance and Analytics Club, IIT Kanpur during summers from May'22 to Jul'22. The following objective was archieved during the project:
 - Implemented the CAPM model using Python and its libraries and estimated the price of stocks with an accuracy of 92%
 - Analysed and compared various models based on their underlying factors, i.e., technical, fundamental, or macroeconomic
 - Quantified risk & rewards by plotting Efficient Frontier Graph to obtain optimal weight for a portfolio with max. Sharpe ratio
