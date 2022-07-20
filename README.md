@@ -1,6 +1,6 @@
-# Predicting-Stock-Return-using-CAPM-and-Fama-French Model
+# Stock Return Prediction Model
 
-# Details:
+## Details:
 
 This project was offered bu Finance and Analytics Club, IIT Kanpur during summers from May'22 to Jul'22. The following objectivve was archieved during the project:
 - Implemented the CAPM model using Python and its libraries and estimated the price of stocks with an accuracy of 92%
